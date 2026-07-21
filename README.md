@@ -1,6 +1,6 @@
 # 🚀 Miniguia de Estudos: Animações Interativas com GSAP e ScrollTrigger
 
-![Capa do Projeto](img/Gemini_Generated_Image_q6x96sq6x96sq6x9.png)
+![Capa do Projeto](https://raw.githubusercontent.com/Thais-enf/miniguia-estudos-notebooklm/48558adf40e4e722802b438f8b2846d05e04e7f0/assets/Gemini_Generated_Image_q6x96sq6x96sq6x9.png)
 
 > **Projeto Prático - Bootcamp DIO**  
 > Repositório criado para o desafio de projeto da DIO, explorando o uso da Inteligência Artificial (NotebookLM) como ferramenta de aprendizagem ativa, curadoria e organização de conhecimento técnico focado em Front-end.
